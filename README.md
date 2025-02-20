@@ -51,9 +51,9 @@ Output (Chinese): "你的名字是什么?"
 🔹 Improve translation fluency with fine-tuning
 
 📝 Contributors
-Vandhana – Model Training & Evaluation
-Ridhin – Data Preprocessing & Tokenization
-Shiva – Model Inference & Testing
+Vandhana – Model Training & Evaluation,
+Ridhin – Data Preprocessing & Tokenization,
+Shiva – Model Inference & Testing,
 Angel – UI & Documentation
 📜 License
 This project is licensed under the MIT License.
