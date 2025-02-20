@@ -3,7 +3,6 @@ Real-Time Language Translation Using Neural Machine Translation (NMT)
 
 
 
-
 📌 Overview
 This project implements a real-time translation system using the mT5-base model from Hugging Face. It can translate text between multiple languages, such as English (en), Japanese (ja), and Chinese (zh). The model is fine-tuned on a multilingual dataset and optimized for accurate translation.
 
@@ -26,7 +25,7 @@ Copy
 Edit
 output_tokens = model.generate(input_ids, num_beams=5)
 3️⃣ Decoding
-The generated output tokens are converted back into human-readable text.
+The generated output tokens are converted back into human readable text.
 
 python
 Copy
