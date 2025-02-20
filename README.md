@@ -1,6 +1,9 @@
 Real-Time Language Translation Using Neural Machine Translation (NMT)
 🚀 A multilingual translation model using the mT5 Transformer to break language barriers in real-time.
 
+
+
+
 📌 Overview
 This project implements a real-time translation system using the mT5-base model from Hugging Face. It can translate text between multiple languages, such as English (en), Japanese (ja), and Chinese (zh). The model is fine-tuned on a multilingual dataset and optimized for accurate translation.
 
